@@ -1,0 +1,7 @@
+{
+  "name": "GeoOps: Windows GPS Suite",
+  "description": "Professional grade GPS tracking and location intelligence dashboard powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
